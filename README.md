@@ -13,4 +13,4 @@ To run Circos, you need Perl. To reproduce the circos plot one needs to run "EMI
 
 Below command is for windows OS.
 
-C:>perl C:\path\to\circos\bin\circos -conf file_name.conf
+C:>perl C:\path\to\circos\bin\circos -conf RNA_Seq_kids.conf
