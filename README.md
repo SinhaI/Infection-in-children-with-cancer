@@ -12,7 +12,7 @@ In this repository we have added the code used to generate the circos plot for t
 
 To run this code DOWNLOAD CIRCOS, TUTORIALS AND TOOLS from http://circos.ca/software/download/circos/
 
-To run Circos, you need Perl. To reproduce the circos plot one needs to run "EMIF_without_names.conf" file. One will need to invoke perl and pass the Circos script as an argument, along with following command-line parameters.
+To run Circos, you need Perl. To reproduce the circos plot one needs to run "RNA_Seq_kids.conf" file. One will need to invoke perl and pass the Circos script as an argument, along with following command-line parameters.
 
 Below command is for windows OS.
 
